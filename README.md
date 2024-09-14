@@ -1,7 +1,8 @@
 # Password Generator
 ## Preview
 Here's an example of an app:
-![](assets/preview.png)
+
+![Password Generator Preview](assets/preview.png)
 
 ## Overview
 

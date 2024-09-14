@@ -36,4 +36,4 @@ To generate a password:
    pip install -r requirements.txt
 ## Preview
 Here's an example of an app:
-![Password Generator Preview](assets/preview.png)
+!(assets/preview.png)

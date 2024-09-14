@@ -31,10 +31,10 @@ To generate a password:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/WaterMelon-source/password-gen.git
 2. Navigate to the project directory:
    ```bash
-   cd password-generator
+   cd password-gen
 3. Install the necessary dependencies (if applicable):
    ```bash
    pip install -r requirements.txt

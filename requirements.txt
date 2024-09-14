@@ -1,0 +1,2 @@
+customtkinter==5.2.2
+pyperclip==1.9.0

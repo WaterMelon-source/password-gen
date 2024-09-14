@@ -1,4 +1,7 @@
 # Password Generator
+## Preview
+Here's an example of an app:
+![](assets/preview.png)
 
 ## Overview
 
@@ -34,6 +37,3 @@ To generate a password:
 3. Install the necessary dependencies (if applicable):
    ```bash
    pip install -r requirements.txt
-## Preview
-Here's an example of an app:
-!(assets/preview.png)

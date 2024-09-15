@@ -35,6 +35,9 @@ To generate a password:
 2. Navigate to the project directory:
    ```bash
    cd password-gen
-3. Install the necessary dependencies (if applicable):
+3. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
+4. Run the application:
+   ```bash
+   python app.py

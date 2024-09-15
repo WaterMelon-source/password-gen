@@ -1,8 +1,9 @@
 import random
+import pyperclip
 
 from customtkinter import *
 from dependencies.config import *
-import pyperclip
+
 try:
     from ctypes import windll, byref, sizeof, c_int
 except:
